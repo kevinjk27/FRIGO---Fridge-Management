@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "957351893368",
+    "firebase_url": "https://frigo-aug2020.firebaseio.com",
+    "project_id": "frigo-aug2020",
+    "storage_bucket": "frigo-aug2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957351893368:android:47fe675adc2654ea1ad08d",
+        "android_client_info": {
+          "package_name": "com.zybooks.frigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957351893368-8usjbffvi453csj6efnoipki76hdevp1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zybooks.frigo",
+            "certificate_hash": "2c4065a01ea15b63b3eaeb9a168cc3eb42b40161"
+          }
+        },
+        {
+          "client_id": "957351893368-jvhj99ht3itrur8p4pnpuedjc5av2hmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwa-U3MU_eeoOiUs-sjVc-yw7dPZpxoy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957351893368-jvhj99ht3itrur8p4pnpuedjc5av2hmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
